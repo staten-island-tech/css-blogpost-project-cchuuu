@@ -1,9 +1,35 @@
 .header {
     text-align: center;
-    color: black;
     font-size: 56px;    
 }
 
-.blackfont {
-    color: black
+.away {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.subheader {
+    text-align: center;
+    font-size: 36px;
+    
+}
+
+body {
+    background-color: peachpuff
+}
+
+.textboxes {
+    width: 1000px;
+    height: 600px;
+    background-color:grey;
+    margin: 0 auto;
+    border: peachpuff solid 100px;
+}
+
+.sizing {
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 28% 
 }
