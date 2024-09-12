@@ -3,15 +3,11 @@
     font-size: 56px;    
 }
 
-.away {
-    margin-left: 20px;
-    margin-right: 20px;
-
-}
 .subheader {
     text-align: center;
     font-size: 36px;
-    
+    font-weight: 400;
+    margin: 1%
 }
 
 body {
@@ -19,11 +15,12 @@ body {
 }
 
 .textboxes {
-    width: 1000px;
-    height: 600px;
+    width: 800px;
+    height: 640px;
     background-color:grey;
     margin: 0 auto;
-    border: peachpuff solid 100px;
+    border: peachpuff solid 80px;
+    border-radius: 15%
 }
 
 .sizing {
@@ -31,5 +28,22 @@ body {
     height: 300px;
     display: block;
     margin: 0 auto;
-    margin-top: 28% 
 }
+
+.paragraph {
+    text-align: center;
+    font-size: 28px;
+    margin-top: 2%;
+}
+
+.smallerparagraph {
+    text-align: center;
+    font-size: 16px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.subheader2{
+    text-align: center;
+    font-size: 50px;
+}
+
