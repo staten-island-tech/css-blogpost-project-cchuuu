@@ -47,4 +47,8 @@ body {
     font-size: 50px;
 }
 
-#h1 {}
+.link {
+    text-align: center;
+    font-size: 24px;
+    display: block;
+}
